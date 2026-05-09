@@ -22,7 +22,7 @@ wavesurfer.init({
     height: 48, // высота плеера
     scrollParent: false
 });
-
+wavesurfer.load("sound.mp3")
 
 
 //загружаем нужную песню
